@@ -56,9 +56,10 @@
   Getting Started
 
   ## Screenshot 
-  <img width="1440" alt="Screenshot 2022-12-13 at 08 41 42" src="https://user-images.githubusercontent.com/113846649/207386342-2d3e7b87-dc27-4ffe-bbeb-   deac21725b05.png">
+<img width="1440" alt="Screenshot 2022-12-13 at 08 41 42" src="https://user-images.githubusercontent.com/113846649/207386510-c06abfd4-ece7-42eb-bceb-9c87bee72a0c.png">
 
-  
+
+
   ## Questions
   Contact me <br />
 
