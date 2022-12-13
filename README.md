@@ -55,8 +55,10 @@
   THEN I am taken to the corresponding section of the README
   Getting Started
 
-  ## Screenshot
+  ## Screenshot 
+  <img width="1440" alt="Screenshot 2022-12-13 at 08 41 42" src="https://user-images.githubusercontent.com/113846649/207386342-2d3e7b87-dc27-4ffe-bbeb-   deac21725b05.png">
 
+  
   ## Questions
   Contact me <br />
 
