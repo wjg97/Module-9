@@ -66,7 +66,7 @@ https://drive.google.com/file/d/1yfq0kbhmaBB9_12mxFmauSISRkVnd9Oo/view
   Contact me <br />
 
   <br />
-  :octocat: Find me on GitHub: [wjg97](https://github.com/wjg97)<br />
+  Find me on GitHub: [wjg97](https://github.com/wjg97)<br />
   <br />
 
   Email me with any questions: gaulkewyatt@gmail.com<br /><br />
