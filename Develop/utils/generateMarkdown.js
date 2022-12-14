@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   ${data.questions}<br />
 
   <br />
-  :octocat: Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
+  Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
   <br />
 
   Email me with any questions: ${data.email}<br /><br />
