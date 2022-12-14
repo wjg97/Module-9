@@ -59,12 +59,12 @@ inquirer.prompt ([
         name: "userStory",
         message: "Write out a User Story",
     },
-    /*
     {
         type: "input",
         name: "acceptanceCriteria",
         message: "Write out acceptance criteria",
     },
+    /*
     {
         type: "input",
         name: "screenShot",
