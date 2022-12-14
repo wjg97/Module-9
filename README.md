@@ -23,7 +23,7 @@
   npm inquirer
 
   ## Usage
-  App will creat a README 
+  node index will creat a README 
 
   ##License <br>
   ![badge](https://img.shields.io/badge/license-None-orange)
